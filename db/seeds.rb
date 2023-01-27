@@ -11,6 +11,7 @@ first_names = %w[
     Oliver
     Elijah
     William
+    karthi
     James
     Benjamin
     Lucas
